@@ -1,2 +1,2 @@
-# parliament_speaker_diarisation
+# Parliament Speaker Diarisation
 Diarization applied to French parliamentary debates
